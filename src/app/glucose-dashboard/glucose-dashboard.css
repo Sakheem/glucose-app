@@ -1,0 +1,117 @@
+.dashboard-container {
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+
+.dashboard-header h1 {
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+.dashboard-header p {
+  margin: 0;
+  color: #666;
+}
+
+.summary-section {
+  display: flex;
+  gap: 20px;
+  margin: 25px 0;
+}
+
+.summary-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  min-width: 180px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.summary-card h3 {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.summary-card p {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.main-content {
+  display: flex;
+  gap: 25px;
+  align-items: flex-start;
+}
+
+.form-section,
+.readings-section {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.form-section {
+  width: 300px;
+}
+
+.readings-section {
+  flex: 1;
+}
+
+.form-section input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 6px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.form-section button {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: #2d89ef;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.form-section button:hover {
+  background-color: #1e6fd9;
+}
+
+.reading-card {
+  background: #fafafa;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #e5e7eb;
+}
+
+.reading-card p {
+  margin: 5px 0;
+}
+
+.high {
+  border-left: 5px solid red;
+}
+
+.low {
+  border-left: 5px solid blue;
+}
+
+.alert {
+  margin-top: 8px;
+  font-weight: bold;
+}
+
+.high-alert {
+  color: red;
+}
+
+.low-alert {
+  color: blue;
+}

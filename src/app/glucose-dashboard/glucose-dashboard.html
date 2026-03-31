@@ -1,0 +1,104 @@
+<div class="dashboard-container">
+  <div class="dashboard-header">
+    <h1>Glucose Monitor Dashboard</h1>
+    <p>Track glucose readings and monitor status over time.</p>
+  </div>
+
+  <div class="summary-section">
+    <div class="summary-card">
+      <h3>Total Readings</h3>
+      <p>{{ readings.length }}</p>
+    </div>
+
+    <div class="summary-card">
+      <h3>Latest Reading</h3>
+      <p>
+        {{
+          readings.length > 0
+            ? readings[readings.length - 1].glucose
+            : 'No data'
+        }}
+      </p>
+    </div>
+
+    <div class="summary-card">
+      <h3>Latest Status</h3>
+      <p>
+        {{
+          readings.length > 0
+            ? readings[readings.length - 1].status
+            : 'No data'
+        }}
+      </p>
+    </div>
+  </div>
+
+  <div class="main-content">
+    <div class="form-section">
+      <h2>Add Glucose Reading</h2>
+
+      <label for="glucose">Glucose Level:</label>
+      <input type="number" id="glucose" #glucoseInput />
+
+      <br /><br />
+
+      <label for="date">Date:</label>
+      <input type="date" id="date" #dateInput />
+
+      <br /><br />
+
+      <label for="time">Time:</label>
+      <input type="time" id="time" #timeInput />
+
+      <br /><br />
+
+      <button
+        type="button"
+        (click)="addReading(glucoseInput.value, dateInput.value, timeInput.value)"
+      >
+        Add Reading
+      </button>
+    </div>
+
+    <div class="readings-section">
+      <h2>Recent Readings</h2>
+
+      <div
+        *ngFor="let reading of readings"
+        class="reading-card"
+        [ngClass]="{
+          'high': reading.status === 'High',
+          'low': reading.status === 'Low'
+        }"
+      >
+        <p><strong>Glucose:</strong> {{ reading.glucose }}</p>
+        <p><strong>Date:</strong> {{ reading.date }}</p>
+        <p><strong>Time:</strong> {{ reading.time }}</p>
+
+        <p>
+          <strong>Status:</strong>
+          <span
+            [style.color]="
+              reading.status === 'High'
+                ? 'red'
+                : reading.status === 'Low'
+                ? 'blue'
+                : 'green'
+            "
+          >
+            {{ reading.status }}
+          </span>
+        </p>
+
+        <!-- ALERTS -->
+        <p *ngIf="reading.status === 'High'" class="alert high-alert">
+          ⚠ High glucose level detected
+        </p>
+
+        <p *ngIf="reading.status === 'Low'" class="alert low-alert">
+          ⚠ Low glucose level detected
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
