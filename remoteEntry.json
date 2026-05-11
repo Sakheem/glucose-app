@@ -2,62 +2,50 @@
   "name": "glucose",
   "shared": [
     {
-      "packageName": "cors",
-      "outFileName": "cors.Tmo5e5WAZ-.js",
-      "requiredVersion": "^2.8.5",
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core.NnTAcmt1H_.js",
+      "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
-      "version": "2.8.6"
+      "version": "21.1.0"
     },
     {
-      "packageName": "rxjs",
-      "outFileName": "rxjs.ZJnqI8Mo3e.js",
-      "requiredVersion": "~7.8.0",
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common.vPBte3Eu2u.js",
+      "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
-      "version": "7.8.2"
+      "version": "21.1.0"
     },
     {
-      "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.XhxytwJoUd.js",
-      "requiredVersion": "~7.8.0",
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router.MuGIKCdazV.js",
+      "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
-      "version": "7.8.2"
-    },
-    {
-      "packageName": "tslib",
-      "outFileName": "tslib.DVLIWn_haN.js",
-      "requiredVersion": "^2.3.0",
-      "singleton": true,
-      "strictVersion": false,
-      "version": "2.8.1"
+      "version": "21.1.0"
     },
     {
       "singleton": false,
       "strictVersion": false,
       "version": "0.0.0",
       "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-KNUKVBCT",
-      "outFileName": "chunk-KNUKVBCT.js"
+      "packageName": "@nf-internal/chunk-FIE2NKNJ",
+      "outFileName": "chunk-FIE2NKNJ.js"
     },
     {
       "singleton": false,
       "strictVersion": false,
       "version": "0.0.0",
       "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-UJVVLSSD",
-      "outFileName": "chunk-UJVVLSSD.js"
+      "packageName": "@nf-internal/chunk-UMZMRDSE",
+      "outFileName": "chunk-UMZMRDSE.js"
     }
   ],
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-KRVSYMCJ.js"
-    },
-    {
-      "key": "./Card",
-      "outFileName": "Card-TBEMLYQB.js"
+      "outFileName": "Component-TFRJXQPH.js"
     }
   ]
 }

@@ -1,10 +1,9 @@
 {
   "imports": {
-    "cors": "cors.Tmo5e5WAZ-.js",
-    "rxjs": "rxjs.ZJnqI8Mo3e.js",
-    "rxjs/operators": "rxjs_operators.XhxytwJoUd.js",
-    "tslib": "tslib.DVLIWn_haN.js",
-    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js",
-    "@nf-internal/chunk-UJVVLSSD": "chunk-UJVVLSSD.js"
+    "@angular/core": "_angular_core.NnTAcmt1H_.js",
+    "@angular/common": "_angular_common.vPBte3Eu2u.js",
+    "@angular/router": "_angular_router.MuGIKCdazV.js",
+    "@nf-internal/chunk-FIE2NKNJ": "chunk-FIE2NKNJ.js",
+    "@nf-internal/chunk-UMZMRDSE": "chunk-UMZMRDSE.js"
   }
 }
