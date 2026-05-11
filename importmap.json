@@ -1,8 +1,10 @@
 {
   "imports": {
-    "rxjs": "rxjs.qF104gn8m6.js",
-    "rxjs/operators": "rxjs_operators.K0lSWOtgEM.js",
-    "tslib": "tslib.Wk-Suben-O.js",
-    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js"
+    "cors": "cors.i_UHDMtOUG.js",
+    "rxjs": "rxjs.6NvaXSYbC3.js",
+    "rxjs/operators": "rxjs_operators.P0E-rnKCLh.js",
+    "tslib": "tslib.i8eUQig6q4.js",
+    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js",
+    "@nf-internal/chunk-UJVVLSSD": "chunk-UJVVLSSD.js"
   }
 }

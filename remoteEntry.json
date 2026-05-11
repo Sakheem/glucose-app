@@ -1,28 +1,36 @@
 {
-  "name": "glucose-app",
+  "name": "glucose",
   "shared": [
     {
+      "packageName": "cors",
+      "outFileName": "cors.i_UHDMtOUG.js",
+      "requiredVersion": "^2.8.5",
+      "singleton": true,
+      "strictVersion": false,
+      "version": "2.8.6"
+    },
+    {
       "packageName": "rxjs",
-      "outFileName": "rxjs.qF104gn8m6.js",
+      "outFileName": "rxjs.6NvaXSYbC3.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "7.8.2"
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.K0lSWOtgEM.js",
+      "outFileName": "rxjs_operators.P0E-rnKCLh.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "7.8.2"
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.Wk-Suben-O.js",
+      "outFileName": "tslib.i8eUQig6q4.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "2.8.1"
     },
     {
@@ -32,6 +40,14 @@
       "requiredVersion": "0.0.0",
       "packageName": "@nf-internal/chunk-KNUKVBCT",
       "outFileName": "chunk-KNUKVBCT.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-UJVVLSSD",
+      "outFileName": "chunk-UJVVLSSD.js"
     }
   ],
   "exposes": [
