@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "@angular/core",
-      "outFileName": "_angular_core.ud87Pchvg4.js",
+      "outFileName": "_angular_core.8z7JBndYbq.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -11,7 +11,7 @@
     },
     {
       "packageName": "@angular/core/event-dispatch-contract.min.js",
-      "outFileName": "_angular_core_event_dispatch_contract_min_js.tIogvSZ3yM.js",
+      "outFileName": "_angular_core_event_dispatch_contract_min_js.OB7eMN5BDu.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -19,7 +19,7 @@
     },
     {
       "packageName": "@angular/core/primitives/di",
-      "outFileName": "_angular_core_primitives_di.7jdnl8bG4D.js",
+      "outFileName": "_angular_core_primitives_di.Bc_B7ZowWw.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -27,7 +27,7 @@
     },
     {
       "packageName": "@angular/core/primitives/event-dispatch",
-      "outFileName": "_angular_core_primitives_event_dispatch.tftZGJGKj1.js",
+      "outFileName": "_angular_core_primitives_event_dispatch.nHcf7Kw_Yn.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -35,7 +35,7 @@
     },
     {
       "packageName": "@angular/core/primitives/signals",
-      "outFileName": "_angular_core_primitives_signals.UH10wyOi8s.js",
+      "outFileName": "_angular_core_primitives_signals.PPhlPsOxe2.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -43,7 +43,7 @@
     },
     {
       "packageName": "@angular/core/rxjs-interop",
-      "outFileName": "_angular_core_rxjs_interop.2xtMSdYvB3.js",
+      "outFileName": "_angular_core_rxjs_interop.c63QN_jsgU.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -51,7 +51,7 @@
     },
     {
       "packageName": "@angular/common",
-      "outFileName": "_angular_common.rwIiCjFFuo.js",
+      "outFileName": "_angular_common.IryKg0yYTQ.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -59,7 +59,7 @@
     },
     {
       "packageName": "@angular/common/http",
-      "outFileName": "_angular_common_http.XpLbc0QIpM.js",
+      "outFileName": "_angular_common_http.k-vs_Dbqi1.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -67,7 +67,7 @@
     },
     {
       "packageName": "@angular/router",
-      "outFileName": "_angular_router.fUdEeOQ3gM.js",
+      "outFileName": "_angular_router.17xSV2Xwfm.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -75,7 +75,7 @@
     },
     {
       "packageName": "@angular/platform-browser",
-      "outFileName": "_angular_platform_browser.gM37o4NOhw.js",
+      "outFileName": "_angular_platform_browser.6X7WolNDtO.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -83,7 +83,7 @@
     },
     {
       "packageName": "@angular/platform-browser/animations",
-      "outFileName": "_angular_platform_browser_animations.J1vgKggY8l.js",
+      "outFileName": "_angular_platform_browser_animations.DWqzzphbyI.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -91,7 +91,7 @@
     },
     {
       "packageName": "@angular/platform-browser/animations/async",
-      "outFileName": "_angular_platform_browser_animations_async.xY2Oh-2tBO.js",
+      "outFileName": "_angular_platform_browser_animations_async.D9va9CtS5G.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -99,7 +99,7 @@
     },
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs.5PwG_fxwwm.js",
+      "outFileName": "rxjs.0OLlDi_8rx.js",
       "requiredVersion": "7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -107,7 +107,7 @@
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.DTaA4RrE0T.js",
+      "outFileName": "rxjs_operators.llQAQ5GSFg.js",
       "requiredVersion": "7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -213,7 +213,11 @@
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-K2XW64V5.js"
+      "outFileName": "Component-46VYA6BR.js"
+    },
+    {
+      "key": "./Card",
+      "outFileName": "Card-DQ7SQNR2.js"
     }
   ]
 }
