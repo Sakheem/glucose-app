@@ -3,27 +3,27 @@
   "shared": [
     {
       "packageName": "@angular/core",
-      "outFileName": "_angular_core.NnTAcmt1H_.js",
+      "outFileName": "_angular_core.Tv62wTa7iU.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
-      "version": "21.1.0"
+      "version": "21.2.10"
     },
     {
       "packageName": "@angular/common",
-      "outFileName": "_angular_common.vPBte3Eu2u.js",
+      "outFileName": "_angular_common.0yCcxqiydI.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
-      "version": "21.1.0"
+      "version": "21.2.10"
     },
     {
       "packageName": "@angular/router",
-      "outFileName": "_angular_router.MuGIKCdazV.js",
+      "outFileName": "_angular_router.avC1un_E4j.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
-      "version": "21.1.0"
+      "version": "21.2.10"
     },
     {
       "singleton": false,
