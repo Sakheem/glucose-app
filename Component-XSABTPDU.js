@@ -1,1 +1,0 @@
-import{a as t}from"./chunk-SMG7ABTQ.js";import*as e from"@angular/core";var n=class o{static \u0275fac=function(p){return new(p||o)};static \u0275cmp=e.\u0275\u0275defineComponent({type:o,selectors:[["app-root"]],decls:1,vars:0,template:function(p,s){p&1&&e.\u0275\u0275element(0,"app-glucose-dashboard")},dependencies:[t],encapsulation:2})};export{n as App,n as AppComponent};

@@ -2,94 +2,46 @@
   "name": "glucose",
   "shared": [
     {
-      "packageName": "@angular/core",
-      "outFileName": "_angular_core.O8wagHOBAH.js",
-      "requiredVersion": false,
+      "packageName": "rxjs",
+      "outFileName": "rxjs.hKHLzqypOv.js",
+      "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
-      "version": "21.2.10"
+      "version": "7.8.2"
     },
     {
-      "packageName": "@angular/common",
-      "outFileName": "_angular_common.CdNpHzs-xS.js",
-      "requiredVersion": false,
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators.C0l5wEs21-.js",
+      "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
-      "version": "21.2.10"
+      "version": "7.8.2"
     },
     {
-      "packageName": "@angular/common/http",
-      "outFileName": "_angular_common_http.DGkmL8v59q.js",
-      "requiredVersion": false,
+      "packageName": "tslib",
+      "outFileName": "tslib.XK5JEx8wYn.js",
+      "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": false,
-      "version": "21.2.10"
-    },
-    {
-      "packageName": "@angular/core/primitives/signals",
-      "outFileName": "_angular_core_primitives_signals.MsZoeE2vEq.js",
-      "requiredVersion": false,
-      "singleton": true,
-      "strictVersion": false,
-      "version": "21.2.10"
-    },
-    {
-      "packageName": "@angular/router",
-      "outFileName": "_angular_router.jMMml1hLg3.js",
-      "requiredVersion": false,
-      "singleton": true,
-      "strictVersion": false,
-      "version": "21.2.10"
+      "version": "2.8.1"
     },
     {
       "singleton": false,
       "strictVersion": false,
       "version": "0.0.0",
       "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-674MHT74",
-      "outFileName": "chunk-674MHT74.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-76HC7EGV",
-      "outFileName": "chunk-76HC7EGV.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-FIE2NKNJ",
-      "outFileName": "chunk-FIE2NKNJ.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-K7B64FOA",
-      "outFileName": "chunk-K7B64FOA.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-4CLCTAJ7",
-      "outFileName": "chunk-4CLCTAJ7.js"
+      "packageName": "@nf-internal/chunk-KNUKVBCT",
+      "outFileName": "chunk-KNUKVBCT.js"
     }
   ],
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-XSABTPDU.js"
+      "outFileName": "Component-CZSC7WGQ.js"
     },
     {
       "key": "./Card",
-      "outFileName": "Card-BCUKYIZG.js"
+      "outFileName": "Card-MXJNDOB6.js"
     }
   ]
 }
