@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "@angular/core",
-      "outFileName": "_angular_core.t7O5sR8gLL.js",
+      "outFileName": "_angular_core.O8wagHOBAH.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
@@ -11,7 +11,23 @@
     },
     {
       "packageName": "@angular/common",
-      "outFileName": "_angular_common.fENK-_Y_jA.js",
+      "outFileName": "_angular_common.CdNpHzs-xS.js",
+      "requiredVersion": false,
+      "singleton": true,
+      "strictVersion": false,
+      "version": "21.2.10"
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http.DGkmL8v59q.js",
+      "requiredVersion": false,
+      "singleton": true,
+      "strictVersion": false,
+      "version": "21.2.10"
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals.MsZoeE2vEq.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
@@ -19,11 +35,27 @@
     },
     {
       "packageName": "@angular/router",
-      "outFileName": "_angular_router.8RB4AQfKVe.js",
+      "outFileName": "_angular_router.jMMml1hLg3.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
       "version": "21.2.10"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-674MHT74",
+      "outFileName": "chunk-674MHT74.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-76HC7EGV",
+      "outFileName": "chunk-76HC7EGV.js"
     },
     {
       "singleton": false,
@@ -38,8 +70,16 @@
       "strictVersion": false,
       "version": "0.0.0",
       "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-UMZMRDSE",
-      "outFileName": "chunk-UMZMRDSE.js"
+      "packageName": "@nf-internal/chunk-K7B64FOA",
+      "outFileName": "chunk-K7B64FOA.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-4CLCTAJ7",
+      "outFileName": "chunk-4CLCTAJ7.js"
     }
   ],
   "exposes": [

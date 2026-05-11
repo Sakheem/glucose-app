@@ -1,9 +1,14 @@
 {
   "imports": {
-    "@angular/core": "_angular_core.t7O5sR8gLL.js",
-    "@angular/common": "_angular_common.fENK-_Y_jA.js",
-    "@angular/router": "_angular_router.8RB4AQfKVe.js",
+    "@angular/core": "_angular_core.O8wagHOBAH.js",
+    "@angular/common": "_angular_common.CdNpHzs-xS.js",
+    "@angular/common/http": "_angular_common_http.DGkmL8v59q.js",
+    "@angular/core/primitives/signals": "_angular_core_primitives_signals.MsZoeE2vEq.js",
+    "@angular/router": "_angular_router.jMMml1hLg3.js",
+    "@nf-internal/chunk-674MHT74": "chunk-674MHT74.js",
+    "@nf-internal/chunk-76HC7EGV": "chunk-76HC7EGV.js",
     "@nf-internal/chunk-FIE2NKNJ": "chunk-FIE2NKNJ.js",
-    "@nf-internal/chunk-UMZMRDSE": "chunk-UMZMRDSE.js"
+    "@nf-internal/chunk-K7B64FOA": "chunk-K7B64FOA.js",
+    "@nf-internal/chunk-4CLCTAJ7": "chunk-4CLCTAJ7.js"
   }
 }
