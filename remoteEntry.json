@@ -2,64 +2,8 @@
   "name": "glucose-app",
   "shared": [
     {
-      "packageName": "@angular/common",
-      "outFileName": "_angular_common.fEr6_W6fVu.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/common/http",
-      "outFileName": "_angular_common_http.ApUSomNlon.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/core",
-      "outFileName": "_angular_core.5sXOiM42j8.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/core/primitives/di",
-      "outFileName": "_angular_core_primitives_di.K6Fuv0ukWU.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/core/primitives/signals",
-      "outFileName": "_angular_core_primitives_signals.ZNVtgwD953.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/platform-browser",
-      "outFileName": "_angular_platform_browser.WyET7ip-KU.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/router",
-      "outFileName": "_angular_router.aMsvAaV6Dt.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": true,
-      "version": "21.1.0"
-    },
-    {
       "packageName": "rxjs",
-      "outFileName": "rxjs.h82OdKMrGh.js",
+      "outFileName": "rxjs.qF104gn8m6.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": true,
@@ -67,7 +11,7 @@
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.qMH3ll9IbW.js",
+      "outFileName": "rxjs_operators.K0lSWOtgEM.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": true,
@@ -75,7 +19,7 @@
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.5cK9_LcTYl.js",
+      "outFileName": "tslib.Wk-Suben-O.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": true,
@@ -86,46 +30,14 @@
       "strictVersion": false,
       "version": "0.0.0",
       "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-S56HBTK5",
-      "outFileName": "chunk-S56HBTK5.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-SLWIJEXV",
-      "outFileName": "chunk-SLWIJEXV.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-DBZSGTSI",
-      "outFileName": "chunk-DBZSGTSI.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
       "packageName": "@nf-internal/chunk-KNUKVBCT",
       "outFileName": "chunk-KNUKVBCT.js"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-4CLCTAJ7",
-      "outFileName": "chunk-4CLCTAJ7.js"
     }
   ],
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-K2XW64V5.js"
+      "outFileName": "Component-LC7GJPGX.js"
     }
   ]
 }

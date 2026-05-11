@@ -1,19 +1,8 @@
 {
   "imports": {
-    "@angular/common": "_angular_common.fEr6_W6fVu.js",
-    "@angular/common/http": "_angular_common_http.ApUSomNlon.js",
-    "@angular/core": "_angular_core.5sXOiM42j8.js",
-    "@angular/core/primitives/di": "_angular_core_primitives_di.K6Fuv0ukWU.js",
-    "@angular/core/primitives/signals": "_angular_core_primitives_signals.ZNVtgwD953.js",
-    "@angular/platform-browser": "_angular_platform_browser.WyET7ip-KU.js",
-    "@angular/router": "_angular_router.aMsvAaV6Dt.js",
-    "rxjs": "rxjs.h82OdKMrGh.js",
-    "rxjs/operators": "rxjs_operators.qMH3ll9IbW.js",
-    "tslib": "tslib.5cK9_LcTYl.js",
-    "@nf-internal/chunk-S56HBTK5": "chunk-S56HBTK5.js",
-    "@nf-internal/chunk-SLWIJEXV": "chunk-SLWIJEXV.js",
-    "@nf-internal/chunk-DBZSGTSI": "chunk-DBZSGTSI.js",
-    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js",
-    "@nf-internal/chunk-4CLCTAJ7": "chunk-4CLCTAJ7.js"
+    "rxjs": "rxjs.qF104gn8m6.js",
+    "rxjs/operators": "rxjs_operators.K0lSWOtgEM.js",
+    "tslib": "tslib.Wk-Suben-O.js",
+    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js"
   }
 }
