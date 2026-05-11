@@ -3,34 +3,34 @@
   "shared": [
     {
       "packageName": "cors",
-      "outFileName": "cors.IJBZrz668f.js",
+      "outFileName": "cors.adPU_szRoD.js",
       "requiredVersion": "^2.8.5",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "2.8.6"
     },
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs.8OjdVXd9I6.js",
+      "outFileName": "rxjs.h10l-jkAUP.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "7.8.2"
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.bdOSh5dEwW.js",
+      "outFileName": "rxjs_operators.4QZiWASqfk.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "7.8.2"
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.gb8pWA1KLR.js",
+      "outFileName": "tslib.uSyTV0tFaO.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
-      "strictVersion": true,
+      "strictVersion": false,
       "version": "2.8.1"
     },
     {
