@@ -1,10 +1,30 @@
 {
   "imports": {
-    "cors": "cors.i_UHDMtOUG.js",
-    "rxjs": "rxjs.6NvaXSYbC3.js",
-    "rxjs/operators": "rxjs_operators.P0E-rnKCLh.js",
-    "tslib": "tslib.i8eUQig6q4.js",
-    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js",
-    "@nf-internal/chunk-UJVVLSSD": "chunk-UJVVLSSD.js"
+    "@angular/core": "_angular_core.ud87Pchvg4.js",
+    "@angular/core/event-dispatch-contract.min.js": "_angular_core_event_dispatch_contract_min_js.tIogvSZ3yM.js",
+    "@angular/core/primitives/di": "_angular_core_primitives_di.7jdnl8bG4D.js",
+    "@angular/core/primitives/event-dispatch": "_angular_core_primitives_event_dispatch.tftZGJGKj1.js",
+    "@angular/core/primitives/signals": "_angular_core_primitives_signals.UH10wyOi8s.js",
+    "@angular/core/rxjs-interop": "_angular_core_rxjs_interop.2xtMSdYvB3.js",
+    "@angular/common": "_angular_common.rwIiCjFFuo.js",
+    "@angular/common/http": "_angular_common_http.XpLbc0QIpM.js",
+    "@angular/router": "_angular_router.fUdEeOQ3gM.js",
+    "@angular/platform-browser": "_angular_platform_browser.gM37o4NOhw.js",
+    "@angular/platform-browser/animations": "_angular_platform_browser_animations.J1vgKggY8l.js",
+    "@angular/platform-browser/animations/async": "_angular_platform_browser_animations_async.xY2Oh-2tBO.js",
+    "rxjs": "rxjs.5PwG_fxwwm.js",
+    "rxjs/operators": "rxjs_operators.DTaA4RrE0T.js",
+    "@nf-internal/chunk-YSUERQVJ": "chunk-YSUERQVJ.js",
+    "@nf-internal/chunk-LOHFO5VT": "chunk-LOHFO5VT.js",
+    "@nf-internal/chunk-HQKSIQVQ": "chunk-HQKSIQVQ.js",
+    "@nf-internal/browser-WNOFOWMC": "browser-WNOFOWMC.js",
+    "@nf-internal/chunk-4JIGLATD": "chunk-4JIGLATD.js",
+    "@nf-internal/chunk-RFVP6F36": "chunk-RFVP6F36.js",
+    "@nf-internal/chunk-VF5MYEDV": "chunk-VF5MYEDV.js",
+    "@nf-internal/chunk-GSMICYHT": "chunk-GSMICYHT.js",
+    "@nf-internal/chunk-SLWIJEXV": "chunk-SLWIJEXV.js",
+    "@nf-internal/chunk-YEU6INBQ": "chunk-YEU6INBQ.js",
+    "@nf-internal/chunk-S56HBTK5": "chunk-S56HBTK5.js",
+    "@nf-internal/chunk-4CLCTAJ7": "chunk-4CLCTAJ7.js"
   }
 }
