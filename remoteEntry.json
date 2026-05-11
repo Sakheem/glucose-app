@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "@angular/core",
-      "outFileName": "_angular_core.8z7JBndYbq.js",
+      "outFileName": "_angular_core.wZqK-j-nZc.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -11,7 +11,7 @@
     },
     {
       "packageName": "@angular/core/event-dispatch-contract.min.js",
-      "outFileName": "_angular_core_event_dispatch_contract_min_js.OB7eMN5BDu.js",
+      "outFileName": "_angular_core_event_dispatch_contract_min_js.2CVLQzSijE.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -19,7 +19,7 @@
     },
     {
       "packageName": "@angular/core/primitives/di",
-      "outFileName": "_angular_core_primitives_di.Bc_B7ZowWw.js",
+      "outFileName": "_angular_core_primitives_di.yru0jTn54n.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -27,7 +27,7 @@
     },
     {
       "packageName": "@angular/core/primitives/event-dispatch",
-      "outFileName": "_angular_core_primitives_event_dispatch.nHcf7Kw_Yn.js",
+      "outFileName": "_angular_core_primitives_event_dispatch.SWjhfvwhLE.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -35,7 +35,7 @@
     },
     {
       "packageName": "@angular/core/primitives/signals",
-      "outFileName": "_angular_core_primitives_signals.PPhlPsOxe2.js",
+      "outFileName": "_angular_core_primitives_signals.ewtlRok9-p.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -43,7 +43,7 @@
     },
     {
       "packageName": "@angular/core/rxjs-interop",
-      "outFileName": "_angular_core_rxjs_interop.c63QN_jsgU.js",
+      "outFileName": "_angular_core_rxjs_interop.wvgHY_I1dA.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -51,7 +51,7 @@
     },
     {
       "packageName": "@angular/common",
-      "outFileName": "_angular_common.IryKg0yYTQ.js",
+      "outFileName": "_angular_common.3RWeh5TxXv.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -59,15 +59,7 @@
     },
     {
       "packageName": "@angular/common/http",
-      "outFileName": "_angular_common_http.k-vs_Dbqi1.js",
-      "requiredVersion": "21.1.0",
-      "singleton": true,
-      "strictVersion": false,
-      "version": "21.1.0"
-    },
-    {
-      "packageName": "@angular/router",
-      "outFileName": "_angular_router.17xSV2Xwfm.js",
+      "outFileName": "_angular_common_http.mCug7b6uKF.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -75,7 +67,7 @@
     },
     {
       "packageName": "@angular/platform-browser",
-      "outFileName": "_angular_platform_browser.6X7WolNDtO.js",
+      "outFileName": "_angular_platform_browser.vCjEjn2n6L.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -83,7 +75,7 @@
     },
     {
       "packageName": "@angular/platform-browser/animations",
-      "outFileName": "_angular_platform_browser_animations.DWqzzphbyI.js",
+      "outFileName": "_angular_platform_browser_animations.kPr_A10yTC.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -91,7 +83,7 @@
     },
     {
       "packageName": "@angular/platform-browser/animations/async",
-      "outFileName": "_angular_platform_browser_animations_async.D9va9CtS5G.js",
+      "outFileName": "_angular_platform_browser_animations_async.Qu4tcAJWwH.js",
       "requiredVersion": "21.1.0",
       "singleton": true,
       "strictVersion": false,
@@ -99,7 +91,7 @@
     },
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs.0OLlDi_8rx.js",
+      "outFileName": "rxjs.fndNrlMyQu.js",
       "requiredVersion": "7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -107,7 +99,7 @@
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.llQAQ5GSFg.js",
+      "outFileName": "rxjs_operators.Sj9bPSSVD8.js",
       "requiredVersion": "7.8.0",
       "singleton": true,
       "strictVersion": false,
