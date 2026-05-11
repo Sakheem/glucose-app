@@ -7,5 +7,5 @@ import { GlucoseDashboard } from './glucose-dashboard/glucose-dashboard';
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
-export class AppComponent {
+export class App {
 }

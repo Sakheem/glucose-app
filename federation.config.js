@@ -6,8 +6,8 @@ module.exports = withNativeFederation({
 
 
   exposes: {
-    './Component': './src/app/app.ts',
-  },
+  './Component': './src/app/glucose-dashboard/glucose-dashboard.ts',
+},
 
   shared: {
     ...shareAll({ singleton: true, strictVersion: true, requiredVersion: 'auto' }),
