@@ -1,29 +1,10 @@
 {
   "imports": {
-    "@angular/core": "_angular_core.wZqK-j-nZc.js",
-    "@angular/core/event-dispatch-contract.min.js": "_angular_core_event_dispatch_contract_min_js.2CVLQzSijE.js",
-    "@angular/core/primitives/di": "_angular_core_primitives_di.yru0jTn54n.js",
-    "@angular/core/primitives/event-dispatch": "_angular_core_primitives_event_dispatch.SWjhfvwhLE.js",
-    "@angular/core/primitives/signals": "_angular_core_primitives_signals.ewtlRok9-p.js",
-    "@angular/core/rxjs-interop": "_angular_core_rxjs_interop.wvgHY_I1dA.js",
-    "@angular/common": "_angular_common.3RWeh5TxXv.js",
-    "@angular/common/http": "_angular_common_http.mCug7b6uKF.js",
-    "@angular/platform-browser": "_angular_platform_browser.vCjEjn2n6L.js",
-    "@angular/platform-browser/animations": "_angular_platform_browser_animations.kPr_A10yTC.js",
-    "@angular/platform-browser/animations/async": "_angular_platform_browser_animations_async.Qu4tcAJWwH.js",
-    "rxjs": "rxjs.fndNrlMyQu.js",
-    "rxjs/operators": "rxjs_operators.Sj9bPSSVD8.js",
-    "@nf-internal/chunk-YSUERQVJ": "chunk-YSUERQVJ.js",
-    "@nf-internal/chunk-LOHFO5VT": "chunk-LOHFO5VT.js",
-    "@nf-internal/chunk-HQKSIQVQ": "chunk-HQKSIQVQ.js",
-    "@nf-internal/browser-WNOFOWMC": "browser-WNOFOWMC.js",
-    "@nf-internal/chunk-4JIGLATD": "chunk-4JIGLATD.js",
-    "@nf-internal/chunk-RFVP6F36": "chunk-RFVP6F36.js",
-    "@nf-internal/chunk-VF5MYEDV": "chunk-VF5MYEDV.js",
-    "@nf-internal/chunk-GSMICYHT": "chunk-GSMICYHT.js",
-    "@nf-internal/chunk-SLWIJEXV": "chunk-SLWIJEXV.js",
-    "@nf-internal/chunk-YEU6INBQ": "chunk-YEU6INBQ.js",
-    "@nf-internal/chunk-S56HBTK5": "chunk-S56HBTK5.js",
-    "@nf-internal/chunk-4CLCTAJ7": "chunk-4CLCTAJ7.js"
+    "cors": "cors.IJBZrz668f.js",
+    "rxjs": "rxjs.8OjdVXd9I6.js",
+    "rxjs/operators": "rxjs_operators.bdOSh5dEwW.js",
+    "tslib": "tslib.gb8pWA1KLR.js",
+    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js",
+    "@nf-internal/chunk-UJVVLSSD": "chunk-UJVVLSSD.js"
   }
 }
