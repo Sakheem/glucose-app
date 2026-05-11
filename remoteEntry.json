@@ -2,16 +2,8 @@
   "name": "glucose",
   "shared": [
     {
-      "packageName": "rxjs",
-      "outFileName": "rxjs.hKHLzqypOv.js",
-      "requiredVersion": "~7.8.0",
-      "singleton": true,
-      "strictVersion": false,
-      "version": "7.8.2"
-    },
-    {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.C0l5wEs21-.js",
+      "outFileName": "rxjs_operators.ecLwJO5jQT.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -19,29 +11,21 @@
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.XK5JEx8wYn.js",
+      "outFileName": "tslib.SceBiGgh_N.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": false,
       "version": "2.8.1"
-    },
-    {
-      "singleton": false,
-      "strictVersion": false,
-      "version": "0.0.0",
-      "requiredVersion": "0.0.0",
-      "packageName": "@nf-internal/chunk-KNUKVBCT",
-      "outFileName": "chunk-KNUKVBCT.js"
     }
   ],
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-CZSC7WGQ.js"
+      "outFileName": "Component-MYKZCZN5.js"
     },
     {
       "key": "./Card",
-      "outFileName": "Card-MXJNDOB6.js"
+      "outFileName": "Card-LYLZQQFO.js"
     }
   ]
 }

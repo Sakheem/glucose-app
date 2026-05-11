@@ -1,8 +1,6 @@
 {
   "imports": {
-    "rxjs": "rxjs.hKHLzqypOv.js",
-    "rxjs/operators": "rxjs_operators.C0l5wEs21-.js",
-    "tslib": "tslib.XK5JEx8wYn.js",
-    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js"
+    "rxjs/operators": "rxjs_operators.ecLwJO5jQT.js",
+    "tslib": "tslib.SceBiGgh_N.js"
   }
 }
