@@ -1,4 +1,4 @@
-import { A as _, B as R, C as B, D as G, E as V, F as q, G as z, H, I as J, J as K, K as Q, L as X, a as s, b, c as v, d as p, e as E, f as m, g as k, h as D, i as N, j as P, k as j, l as g, m as w, n as y, o as T, p as F, q as O, r as h, s as S, t as x, u as I, v as L, w as W, x as $, y as M, z as U } from "@nf-internal/chunk-ZYHFJCSM";
+import { A as _, B as R, C as B, D as G, E as V, F as q, G as z, H, I as J, J as K, K as Q, L as X, a as s, b, c as v, d as p, e as E, f as m, g as k, h as D, i as N, j as P, k as j, l as g, m as w, n as y, o as T, p as F, q as O, r as h, s as S, t as x, u as I, v as L, w as W, x as $, y as M, z as U } from "@nf-internal/chunk-DBZSGTSI";
 import { a as l, b as u } from "@nf-internal/chunk-4CLCTAJ7";
 var f = { header: (e, o) => { if (!c(e) || o?.ngSkipFormatting)
         return null; let r; try {
@@ -35,12 +35,12 @@ finally {
     F(n, t);
 } }; return n.ref = { notify: () => g(n), run: A, cleanup: () => n.cleanupFn(), destroy: () => C(n), [s]: n }, n.ref; }
 var d = () => { }, Z = u(l({}, m), { consumerIsAlwaysLive: !0, consumerAllowSignalWrites: !1, consumerMarkedDirty: e => { e.schedule !== null && e.schedule(e.ref); }, cleanupFn: d });
-export { q as BASE_EFFECT_NODE, m as REACTIVE_NODE, s as SIGNAL, V as SIGNAL_NODE, F as consumerAfterComputation, y as consumerBeforeComputation, S as consumerDestroy, g as consumerMarkDirty, h as consumerPollProducersForChange, W as createComputed, H as createLinkedSignal, M as createSignal, re as createWatch, L as defaultEquals, O as finalizeConsumerAfterComputation, v as getActiveConsumer, ne as installDevToolsSignalFormatter, p as isInNotificationPhase, E as isReactive, J as linkedSignalSetFn, K as linkedSignalUpdateFn, k as producerAccessed, D as producerIncrementEpoch, w as producerMarkClean, P as producerNotifyConsumers, N as producerUpdateValueVersion, j as producerUpdatesAllowed, T as resetConsumerBeforeComputation, z as runEffect, x as runPostProducerCreatedFn, G as runPostSignalSetFn, b as setActiveConsumer, X as setAlternateWeakRefImpl, I as setPostProducerCreatedFn, U as setPostSignalSetFn, $ as setThrowInvalidWriteToSignalError, _ as signalGetFn, R as signalSetFn, B as signalUpdateFn, Q as untracked };
+export { z as BASE_EFFECT_NODE, m as REACTIVE_NODE, s as SIGNAL, V as SIGNAL_NODE, F as consumerAfterComputation, y as consumerBeforeComputation, S as consumerDestroy, g as consumerMarkDirty, h as consumerPollProducersForChange, W as createComputed, J as createLinkedSignal, M as createSignal, re as createWatch, L as defaultEquals, O as finalizeConsumerAfterComputation, v as getActiveConsumer, ne as installDevToolsSignalFormatter, p as isInNotificationPhase, E as isReactive, K as linkedSignalSetFn, Q as linkedSignalUpdateFn, k as producerAccessed, D as producerIncrementEpoch, w as producerMarkClean, P as producerNotifyConsumers, N as producerUpdateValueVersion, j as producerUpdatesAllowed, T as resetConsumerBeforeComputation, H as runEffect, x as runPostProducerCreatedFn, G as runPostSignalSetFn, b as setActiveConsumer, X as setAlternateWeakRefImpl, I as setPostProducerCreatedFn, U as setPostSignalSetFn, $ as setThrowInvalidWriteToSignalError, _ as signalGetFn, R as signalSetFn, B as signalUpdateFn, q as untracked };
 /*! Bundled license information:
 
 @angular/core/fesm2022/primitives-signals.mjs:
   (**
-   * @license Angular v21.2.6
+   * @license Angular v21.1.0
    * (c) 2010-2026 Google LLC. https://angular.dev/
    * License: MIT
    *)

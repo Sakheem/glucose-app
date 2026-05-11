@@ -1,5 +1,5 @@
 import * as a from "@angular/core";
-import { InjectionToken as p, inject as c, DOCUMENT as u } from "@angular/core";
+import { inject as c, InjectionToken as p, DOCUMENT as u } from "@angular/core";
 var h = null;
 function i() { return h; }
 function m(o) { h ??= o; }
@@ -46,7 +46,7 @@ export { i as a, m as b, s as c, f as d, w as e, g as f, I as g, l as h };
 @angular/common/fesm2022/_platform_location-chunk.mjs:
 @angular/common/fesm2022/_xhr-chunk.mjs:
   (**
-   * @license Angular v21.2.6
+   * @license Angular v21.1.0
    * (c) 2010-2026 Google LLC. https://angular.dev/
    * License: MIT
    *)

@@ -1,7 +1,7 @@
 import { a as I, b as W, d as B } from "@nf-internal/chunk-4CLCTAJ7";
-import { \u0275DomAdapter as Pe, \u0275setRootDomAdapter as ke, \u0275parseCookieValue as Ue, \u0275getDOM as ce, DOCUMENT as le, CommonModule as je, XhrFactory as xe, \u0275PLATFORM_BROWSER_ID as Be } from "@angular/common";
+import { \u0275DomAdapter as Pe, \u0275setRootDomAdapter as ke, \u0275parseCookieValue as Ue, \u0275getDOM as ce, DOCUMENT as le, \u0275PLATFORM_BROWSER_ID as je, XhrFactory as xe, CommonModule as Be } from "@angular/common";
 import * as h from "@angular/core";
-import { \u0275global as v, \u0275RuntimeError as Fe, InjectionToken as Yt, ApplicationModule as Ve, \u0275INJECTOR_SCOPE as ze, ErrorHandler as de, RendererFactory2 as Ge, \u0275TESTABILITY_GETTER as $e, Testability as Y, \u0275TESTABILITY as Ye, \u0275internalCreateApplication as ue, createPlatformFactory as Ze, platformCore as Je, PLATFORM_ID as Ke, PLATFORM_INITIALIZER as Xe, \u0275resolveComponentResources as Zt, \u0275setDocument as We } from "@angular/core";
+import { \u0275global as v, \u0275RuntimeError as Fe, \u0275internalCreateApplication as de, \u0275resolveComponentResources as $t, PLATFORM_ID as Ve, PLATFORM_INITIALIZER as ze, createPlatformFactory as Ge, platformCore as $e, InjectionToken as Yt, \u0275TESTABILITY_GETTER as Ye, \u0275TESTABILITY as Ze, Testability as Y, \u0275INJECTOR_SCOPE as Je, ErrorHandler as ue, RendererFactory2 as Ke, ApplicationModule as Xe, \u0275setDocument as We } from "@angular/core";
 import { DOCUMENT as G, \u0275getDOM as De } from "@angular/common";
 import * as l from "@angular/core";
 import { InjectionToken as te, \u0275RuntimeError as V, APP_ID as ne, CSP_NONCE as re, PLATFORM_ID as Re, ViewEncapsulation as E, \u0275TracingService as Ce, RendererStyleFlags2 as O, \u0275allLeavingAnimations as be } from "@angular/core";
@@ -218,24 +218,24 @@ var x = class {
     static \u0275fac = function (t) { return new (t || n)(h.\u0275\u0275inject(le)); };
     static \u0275prov = h.\u0275\u0275defineInjectable({ token: n, factory: n.\u0275fac });
 } return n; })();
-function rt(n, r, e) { return B(this, null, function* () { let t = I({ rootComponent: n }, pe(r, e)); return ue(t); }); }
-function ot(n, r) { return B(this, null, function* () { return ue(pe(n, r)); }); }
+function rt(n, r, e) { return B(this, null, function* () { let t = I({ rootComponent: n }, pe(r, e)); return de(t); }); }
+function ot(n, r) { return B(this, null, function* () { return de(pe(n, r)); }); }
 function pe(n, r) { return { platformRef: r?.platformRef, appProviders: [...ge, ...n?.providers ?? []], platformProviders: he }; }
 function st() { return [...me]; }
 function it() { j.makeCurrent(); }
-function at() { return new de; }
+function at() { return new ue; }
 function ct() { return We(document), document; }
-var he = [{ provide: Ke, useValue: Be }, { provide: Xe, useValue: it, multi: !0 }, { provide: le, useFactory: ct }], lt = Ze(Je, "browser", he);
-var me = [{ provide: $e, useClass: x }, { provide: Ye, useClass: Y }, { provide: Y, useClass: Y }], ge = [{ provide: ze, useValue: "root" }, { provide: de, useFactory: at }, { provide: S, useClass: w, multi: !0 }, { provide: S, useClass: fe, multi: !0 }, U, k, P, { provide: Ge, useExisting: U }, { provide: xe, useClass: et }, []], dt = (() => { class n {
+var he = [{ provide: Ve, useValue: je }, { provide: ze, useValue: it, multi: !0 }, { provide: le, useFactory: ct }], lt = Ge($e, "browser", he);
+var me = [{ provide: Ye, useClass: x }, { provide: Ze, useClass: Y }, { provide: Y, useClass: Y }], ge = [{ provide: Je, useValue: "root" }, { provide: ue, useFactory: at }, { provide: S, useClass: w, multi: !0 }, { provide: S, useClass: fe, multi: !0 }, U, k, P, { provide: Ke, useExisting: U }, { provide: xe, useClass: et }, []], dt = (() => { class n {
     constructor() { }
     static \u0275fac = function (t) { return new (t || n); };
     static \u0275mod = h.\u0275\u0275defineNgModule({ type: n });
-    static \u0275inj = h.\u0275\u0275defineInjector({ providers: [...ge, ...me], imports: [je, Ve] });
+    static \u0275inj = h.\u0275\u0275defineInjector({ providers: [...ge, ...me], imports: [Be, Xe] });
 } return n; })();
 import { \u0275getDOM as Ee, DOCUMENT as b } from "@angular/common";
 import { \u0275getDOM as An } from "@angular/common";
 import * as d from "@angular/core";
-import { \u0275global as ve, ApplicationRef as ut, InjectionToken as Se, Injector as ft, Optional as pt, \u0275Console as nn, \u0275RuntimeError as Z, SecurityContext as M, \u0275allowSanitizationBypassAndThrow as R, \u0275unwrapSafeValue as C, \u0275_sanitizeUrl as ht, \u0275_sanitizeHtml as mt, \u0275bypassSanitizationTrustHtml as gt, \u0275bypassSanitizationTrustStyle as vt, \u0275bypassSanitizationTrustScript as yt, \u0275bypassSanitizationTrustUrl as Et, \u0275bypassSanitizationTrustResourceUrl as St, makeEnvironmentProviders as Mt, \u0275withDomHydration as wt, \u0275withEventReplay as _t, \u0275withI18nSupport as Tt, \u0275withIncrementalHydration as Dt, ENVIRONMENT_INITIALIZER as cn, inject as ln, \u0275IS_ENABLED_BLOCKING_INITIAL_NAVIGATION as dn, \u0275formatRuntimeError as un, Version as Rt } from "@angular/core";
+import { \u0275global as ve, ApplicationRef as ut, InjectionToken as Se, \u0275Console as nn, Optional as ft, Injector as pt, \u0275RuntimeError as Z, SecurityContext as M, \u0275allowSanitizationBypassAndThrow as R, \u0275unwrapSafeValue as C, \u0275_sanitizeUrl as ht, \u0275_sanitizeHtml as mt, \u0275bypassSanitizationTrustHtml as gt, \u0275bypassSanitizationTrustStyle as vt, \u0275bypassSanitizationTrustScript as yt, \u0275bypassSanitizationTrustUrl as Et, \u0275bypassSanitizationTrustResourceUrl as St, \u0275withI18nSupport as Mt, \u0275withEventReplay as wt, \u0275withIncrementalHydration as _t, makeEnvironmentProviders as Tt, \u0275withDomHydration as Dt, ENVIRONMENT_INITIALIZER as cn, inject as ln, \u0275IS_ENABLED_BLOCKING_INITIAL_NAVIGATION as dn, \u0275formatRuntimeError as un, Version as Rt } from "@angular/core";
 import { \u0275withHttpTransferCache as Me } from "@angular/common/http";
 var hn = (() => { class n {
     _doc;
@@ -320,7 +320,7 @@ var At = { pan: !0, panstart: !0, panmove: !0, panend: !0, pancancel: !0, panlef
 } return n; })(), yn = (() => { class n {
     static \u0275fac = function (t) { return new (t || n); };
     static \u0275mod = d.\u0275\u0275defineNgModule({ type: n });
-    static \u0275inj = d.\u0275\u0275defineInjector({ providers: [{ provide: S, useClass: Ot, multi: !0, deps: [b, X, ft, [new pt, Te]] }, { provide: X, useClass: It }] });
+    static \u0275inj = d.\u0275\u0275defineInjector({ providers: [{ provide: S, useClass: Ot, multi: !0, deps: [b, X, pt, [new ft, Te]] }, { provide: X, useClass: It }] });
 } return n; })(), Nt = (() => { class n {
     static \u0275fac = function (t) { return new (t || n); };
     static \u0275prov = d.\u0275\u0275defineInjectable({ token: n, factory: function (t) { let o = null; return t ? o = new (t || n) : o = d.\u0275\u0275inject(Lt), o; }, providedIn: "root" });
@@ -354,12 +354,12 @@ var At = { pan: !0, panstart: !0, panmove: !0, panend: !0, pancancel: !0, panlef
 function A(n, r = [], e = {}) { return { \u0275kind: n, \u0275providers: r }; }
 function En() { return A(m.NoHttpTransferCache); }
 function Sn(n) { return A(m.HttpTransferCacheOptions, Me(n)); }
-function Mn() { return A(m.I18nSupport, Tt()); }
-function wn() { return A(m.EventReplay, _t()); }
-function _n() { return A(m.IncrementalHydration, Dt()); }
+function Mn() { return A(m.I18nSupport, Mt()); }
+function wn() { return A(m.EventReplay, wt()); }
+function _n() { return A(m.IncrementalHydration, _t()); }
 function Tn(...n) { let r = [], e = new Set; for (let { \u0275providers: o, \u0275kind: s } of n)
-    e.add(s), o.length && r.push(o); let t = e.has(m.HttpTransferCacheOptions); return Mt([[], [], wt(), e.has(m.NoHttpTransferCache) || t ? [] : Me({}), r]); }
-var Dn = new Rt("21.2.6");
+    e.add(s), o.length && r.push(o); let t = e.has(m.HttpTransferCacheOptions); return Tt([[], [], Dt(), e.has(m.NoHttpTransferCache) || t ? [] : Me({}), r]); }
+var Dn = new Rt("21.1.0");
 export { dt as BrowserModule, ye as By, Nt as DomSanitizer, S as EVENT_MANAGER_PLUGINS, P as EventManager, g as EventManagerPlugin, X as HAMMER_GESTURE_CONFIG, Te as HAMMER_LOADER, It as HammerGestureConfig, yn as HammerModule, m as HydrationFeatureKind, hn as Meta, se as REMOVE_STYLES_ON_COMPONENT_DESTROY, mn as Title, Dn as VERSION, rt as bootstrapApplication, ot as createApplication, vn as disableDebugTools, gn as enableDebugTools, lt as platformBrowser, Tn as provideClientHydration, st as provideProtractorTestingSupport, wn as withEventReplay, Sn as withHttpTransferCacheOptions, Mn as withI18nSupport, _n as withIncrementalHydration, En as withNoHttpTransferCache, j as \u0275BrowserDomAdapter, x as \u0275BrowserGetTestability, w as \u0275DomEventsPlugin, U as \u0275DomRendererFactory2, Lt as \u0275DomSanitizerImpl, Ot as \u0275HammerGesturesPlugin, fe as \u0275KeyEventsPlugin, k as \u0275SharedStylesHost, An as \u0275getDOM };
 /*! Bundled license information:
 
@@ -367,7 +367,7 @@ export { dt as BrowserModule, ye as By, Nt as DomSanitizer, S as EVENT_MANAGER_P
 @angular/platform-browser/fesm2022/_browser-chunk.mjs:
 @angular/platform-browser/fesm2022/platform-browser.mjs:
   (**
-   * @license Angular v21.2.6
+   * @license Angular v21.1.0
    * (c) 2010-2026 Google LLC. https://angular.dev/
    * License: MIT
    *)
