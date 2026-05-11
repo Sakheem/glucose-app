@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "@angular/core",
-      "outFileName": "_angular_core.Tv62wTa7iU.js",
+      "outFileName": "_angular_core.t7O5sR8gLL.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
@@ -11,7 +11,7 @@
     },
     {
       "packageName": "@angular/common",
-      "outFileName": "_angular_common.0yCcxqiydI.js",
+      "outFileName": "_angular_common.fENK-_Y_jA.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
@@ -19,7 +19,7 @@
     },
     {
       "packageName": "@angular/router",
-      "outFileName": "_angular_router.avC1un_E4j.js",
+      "outFileName": "_angular_router.8RB4AQfKVe.js",
       "requiredVersion": false,
       "singleton": true,
       "strictVersion": false,
@@ -45,7 +45,11 @@
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-TFRJXQPH.js"
+      "outFileName": "Component-XSABTPDU.js"
+    },
+    {
+      "key": "./Card",
+      "outFileName": "Card-BCUKYIZG.js"
     }
   ]
 }
