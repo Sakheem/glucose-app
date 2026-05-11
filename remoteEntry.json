@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "cors",
-      "outFileName": "cors.adPU_szRoD.js",
+      "outFileName": "cors.Tmo5e5WAZ-.js",
       "requiredVersion": "^2.8.5",
       "singleton": true,
       "strictVersion": false,
@@ -11,7 +11,7 @@
     },
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs.h10l-jkAUP.js",
+      "outFileName": "rxjs.ZJnqI8Mo3e.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -19,7 +19,7 @@
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.4QZiWASqfk.js",
+      "outFileName": "rxjs_operators.XhxytwJoUd.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -27,7 +27,7 @@
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.uSyTV0tFaO.js",
+      "outFileName": "tslib.DVLIWn_haN.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": false,
@@ -53,11 +53,11 @@
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-KQW6OKBS.js"
+      "outFileName": "Component-KRVSYMCJ.js"
     },
     {
       "key": "./Card",
-      "outFileName": "Card-P2SJWVMM.js"
+      "outFileName": "Card-TBEMLYQB.js"
     }
   ]
 }
