@@ -1,0 +1,1 @@
+import{d as n,j as o,k as p,r as a}from"./chunk-RYT5JPLZ.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-root"]],decls:2,vars:0,consts:[[2,"color","red","font-size","50px"]],template:function(e,m){e&1&&(o(0,"h1",0),a(1," GLUCOSE APP COMPONENT LOADED "),p())},encapsulation:2})};export{s as AppComponent};
