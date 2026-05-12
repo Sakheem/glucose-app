@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs.Shu_w-vF27.js",
+      "outFileName": "rxjs.tZrJZLt7h9.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -11,7 +11,7 @@
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.RIbmcgBC79.js",
+      "outFileName": "rxjs_operators.Q1Ja-i_WZ6.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": false,
@@ -19,7 +19,7 @@
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.t_RBMcqy-z.js",
+      "outFileName": "tslib.hfpWTtB7p5.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": false,
@@ -37,11 +37,11 @@
   "exposes": [
     {
       "key": "./Component",
-      "outFileName": "Component-PI2XXXF5.js"
+      "outFileName": "Component-56D6TGSR.js"
     },
     {
       "key": "./Card",
-      "outFileName": "Card-7HWV72OK.js"
+      "outFileName": "Card-WPYAEQBQ.js"
     }
   ]
 }
