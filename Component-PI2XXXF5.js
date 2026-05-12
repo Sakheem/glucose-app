@@ -1,0 +1,1 @@
+import{a as n,b as p,c as t}from"./chunk-XCSIYSQN.js";var a=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=n({type:o,selectors:[["app-root"]],decls:1,vars:0,template:function(e,r){e&1&&p(0,"app-glucose-dashboard")},dependencies:[t],encapsulation:2})};export{a as AppComponent,t as GlucoseDashboard};
