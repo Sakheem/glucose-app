@@ -3,26 +3,26 @@
   "shared": [
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs.tZrJZLt7h9.js",
+      "outFileName": "rxjs.xOmURMA6gO.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
-      "strictVersion": false,
+      "strictVersion": true,
       "version": "7.8.2"
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators.Q1Ja-i_WZ6.js",
+      "outFileName": "rxjs_operators.j0-f7OkUrn.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
-      "strictVersion": false,
+      "strictVersion": true,
       "version": "7.8.2"
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib.hfpWTtB7p5.js",
+      "outFileName": "tslib.iWx2ZA4tx9.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
-      "strictVersion": false,
+      "strictVersion": true,
       "version": "2.8.1"
     },
     {
